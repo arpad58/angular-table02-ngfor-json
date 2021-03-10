@@ -3,7 +3,6 @@ export class Hero {
   name: string = '';
   superPower: string = '';
   address: string = '';
-  static id: any;
 
   constructor() { }
 }
