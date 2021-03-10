@@ -1,0 +1,53 @@
+{
+  "heroes": [{
+    "id": 1,
+    "name": "Nady",
+    "superPower": "Environmental Specialist",
+    "address": "Guarda Nova"
+  }, {
+    "id": 2,
+    "name": "Stanly",
+    "superPower": "Senior Quality Engineer",
+    "address": "Baoxing"
+  }, {
+    "id": 3,
+    "name": "Nat",
+    "superPower": "Physical Therapy Assistant",
+    "address": "Sutysky"
+  }, {
+    "id": 4,
+    "name": "Juana",
+    "superPower": "Marketing Assistant",
+    "address": "Coayllo"
+  }, {
+    "id": 5,
+    "name": "Antonietta",
+    "superPower": "Mechanical Systems Engineer",
+    "address": "Muranovo"
+  }, {
+    "id": 6,
+    "name": "Lilah",
+    "superPower": "Librarian",
+    "address": "Pedro Santana"
+  }, {
+    "id": 7,
+    "name": "Trisha",
+    "superPower": "Electrical Engineer",
+    "address": "Mahdia"
+  }, {
+    "id": 8,
+    "name": "Lindsay",
+    "superPower": "Software Test Engineer II",
+    "address": "Opi"
+  }, {
+    "id": 9,
+    "name": "Verina",
+    "superPower": "Office Assistant III",
+    "address": "Rossosh’"
+  }, {
+    "id": 10,
+    "name": "Constantia",
+    "superPower": "Assistant Manager",
+    "address": "Al Jarrahi"
+  }]
+}
